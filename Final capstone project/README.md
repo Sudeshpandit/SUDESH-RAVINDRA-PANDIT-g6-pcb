@@ -86,28 +86,9 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 It focused on schematic design around an STM32F411 microcontroller and a LAN9252 EtherCAT slave controller, structured 2-layer routing with proper design-rule compliance, and implementing key features like USB communication, SPI/I2C interfacing, and dual RJ45 EtherCAT ports.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/SUDESH-RAVINDRA-PANDIT-g6-pcb/blob/492f94ba0c24407fa2a5996a74b2673d0c09e90f/Course%20report/SURE%20Trust%20Final%20Project%20%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
