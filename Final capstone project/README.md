@@ -30,7 +30,7 @@
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> PCB Designing </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Instructor Name:</strong> Monika mam </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> 6 Months </p>
@@ -142,7 +142,6 @@ These activities, alongside the core PCB design work, strengthened my sense of s
 <div align="center">
 <img src="https://github.com/Sudeshpandit/SUDESH-RAVINDRA-PANDIT-g6-pcb/blob/main/Final%20capstone%20project/Tree%20Plantation%20~2.jpg" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/Sudeshpandit/SUDESH-RAVINDRA-PANDIT-g6-pcb/blob/main/Final%20capstone%20project/serving%20old%20people%20%20(2)~2.jpg" alt="Community Service Photo 2" width="30%">
-
 </div>
 
 ---
