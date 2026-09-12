@@ -63,10 +63,13 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+When I started, I barely knew how a PCB actually gets made — the first few days were confusing, and I kept hitting DRC errors without understanding why. Things started clicking as I worked through mistakes instead of just reading about them.
+
+Over the internship I built up through 14 PCB projects, gaining hands-on experience with STM32 microcontrollers, SPI/I2C communication, and industrial protocols like EtherCAT — along the way strengthening my problem-solving (debugging DRC errors and routing conflicts), documentation, and the discipline of verifying a design before calling it done.
+
+My final project, the USB to EtherCAT Adapter Board, brought a lot of that learning together — it needed me to combine what I'd picked up about power supply design, layout planning, and following proper design rules into one board.
+
+Overall, this internship taught me that PCB design isn't something you understand by reading — you actually have to sit with the confusion for a while before it starts making sense.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
@@ -103,9 +106,9 @@ It focused on schematic design around an STM32F411 microcontroller and a LAN9252
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+Alongside the technical PCB work, we had daily Life Skill Training (LST) and Soft Skill Training (SST) sessions, where a different guest speaker was invited almost every day. What stood out to me was who these speakers actually were — professionals holding senior positions at well-known companies — sharing real experience rather than just theory from a textbook.
+
+Honestly, some sessions connected with me more than others depending on the topic, but hearing people who've actually worked at that level talk about how they think, communicate, and handle real workplace situations gave me a different perspective than just focusing on the technical side of the internship. It made me realize that skills like communication, confidence, and how you present yourself matter just as much as technical ability when it comes to actually working in the industry.
 
 ## **Community Services**
 
@@ -125,11 +128,10 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
-
+<!-- add the location where you given -->
+Tree Plantation Drive – Participated by planting trees and contributing to environmental improvement.
+Helping Elder Citizens – Assisted two elderly individuals with simple daily tasks and provided support where needed.
+These activities, alongside the core PCB design work, strengthened my sense of social responsibility and community engagement, reflecting SURE Trust's focus on holistic development beyond just technical skills.
 ### **Photos**
 
 <!-- add your photos below -->
