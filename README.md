@@ -68,14 +68,6 @@ Single-cable USB power, on-board 3.3 V regulation, status LEDs, reset switch, SW
 
 ---
 
-## Images
-
-| Schematic | PCB Layout | 3D View |
-|---|---|---|
-| ![Schematic](images/schematic.png) | ![Layout](images/layout.png) | ![3D](images/3d_view.png) |
-
----
-
 ## Applications
 
 - Industrial automation and motion control
@@ -83,17 +75,6 @@ Single-cable USB power, on-board 3.3 V regulation, status LEDs, reset switch, SW
 - Embedded systems requiring fieldbus connectivity
 - Real-time networking and data acquisition setups
 
----
-
-## Status
-
-Design complete, verified through ERC/DRC and 3D review. *(Update once fabricated and hardware-tested.)*
-
----
-
-## License
-
-*(Add your preferred license, e.g. MIT, CERN-OHL-P, or CC BY 4.0.)*
 
 ## Author
 
