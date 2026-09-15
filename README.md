@@ -79,4 +79,4 @@ Single-cable USB power, on-board 3.3 V regulation, status LEDs, reset switch, SW
 ## Author
 
 **Sudesh Pandit**
-*(Add GitHub/LinkedIn links here.)*
+*(https://www.linkedin.com/in/sudeshpandits/)*
