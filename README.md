@@ -1,1 +1,1 @@
-# SUDESH-RAVINDRA-PANDIT-g6-pcb
+# USB-TO-EtherCAT-Adapter-Board
